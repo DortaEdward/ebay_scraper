@@ -6,5 +6,5 @@ Ebay scraper is a tool that will let the user search a item on ebay and return a
 ## How do I use it?
 When you run the script it will prompt you to enter a term you would like to search on ebay and after that the application takes care of the rest.
 
-## Whats the Purpose of this application?
+## What's the Purpose of this application?
 It is a tool that let's a person get quick data on how much an item was sold for. Since the data is saved in a csv file it also allows the user to use technologies like Pandas do do further data analysis (a feature that will be added to the program in a future update)
